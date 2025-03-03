@@ -24,3 +24,8 @@
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
 }
+
+.list {
+  white-space: nowrap;
+  overflow-x: auto;
+}
